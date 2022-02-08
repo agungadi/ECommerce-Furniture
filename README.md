@@ -19,3 +19,4 @@ Website E-commerce yang menyediakan informasi kepada customer secara detail tent
 
 Manual Book :
 
+https://github.com/agungadi/ECommerce-Furniture/files/8021140/Manual_Book.pdf
